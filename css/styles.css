@@ -1,0 +1,15 @@
+.column{
+  float: left;
+  width: 200px;
+  background-color: #D5D2CF;
+  padding: 10px;
+  text-align: center;
+  margin: 50px;
+  font-style: serif;
+}
+
+body{
+  margin: 100px;
+  text-align: center;
+  font-style: serif;
+}
